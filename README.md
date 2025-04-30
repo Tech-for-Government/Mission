@@ -4,26 +4,26 @@
 A group working on sample projects for governments.
 
 ## Projects Queue
-| **Service**                                     | **Description**                                      |
-|--------------------------------------------------|------------------------------------------------------|
-| Digital ID                                      | Single-sign on (SSO) system, implemented using APIs. |
-| E-Signature & Contracts                         |                                                      |
-| Government Portal                               |                                                      |
-| E-Communication System                          |                                                      |
-| E-Voting & Public Forum                         |                                                      |
-| Public Document Generator                       |                                                      |
-| Tax Portal                                      |                                                      |
-| Social Security System                          |                                                      |
-| Expenditure & Budget Tracker                    |                                                      |
-| Live & Historic Statistics Tracker              |                                                      |
-| Digital Court System                            |                                                      |
-| Land Management, Permitting, & Ownership System |                                                      |
-| AI Legal Assistant                              |                                                      |
-| Organizations Tool                              |                                                      |
-| Finances                                        | Banking, investing, and cheques                      |
-| Appointments                                    |                                                      |
-| Ministry Websites                               |                                                      |
-| Legislation Viewer                              | Past versions, revisions, and proposals              |
+| **Service**                                     | **Description**                                      | **Legal** |
+|--------------------------------------------------|------------------------------------------------------|---------|
+| Digital ID                                      | Single-sign on (SSO) system, implemented using APIs. |  HIPAA (US), GDPR Article 9  |
+| E-Signature & Contracts                         |                                                      |  eIDAS Regulation (EU) and UETA / E-SIGN Act (US)  |
+| Government Portal                               |                                                      |    |
+| E-Communication System                          |                                                      |    |
+| E-Voting & Public Forum                         |                                                      |    |
+| Public Document Generator                       |                                                      | HIPAA (US), GDPR Article 9   |
+| Tax Portal                                      |                                                      |    |
+| Social Security System                          |                                                      |  HIPAA (US), GDPR Article 9  |
+| Expenditure & Budget Tracker                    |                                                      |    |
+| Live & Historic Statistics Tracker              |                                                      |    |
+| Digital Court System                            |                                                      |    |
+| Land Management, Permitting, & Ownership System |                                                      |    |
+| AI Legal Assistant                              |                                                      |    |
+| Organizations Tool                              |                                                      |    |
+| Finances                                        | Banking, investing, and cheques                      |  Anti-Money Laundering (AML), Know Your Customer (KYC)  |
+| Appointments                                    |                                                      |    |
+| Ministry Websites                               |                                                      |    |
+| Legislation Viewer                              | Past versions, revisions, and proposals              |    |
 
 ## Stacks
 1. Application Layer (user interface, service access)
@@ -75,3 +75,17 @@ A group working on sample projects for governments.
     1. Transparent government hiring through the portal with skill-based testing tools.
     2. Open contracting and grant-giving platforms with published evaluation criteria.
     3. AI screening of candidates for services must be bias-audited and appealable.
+
+## Legal
+1. This is not an offer or solicitation for financial, legal, or professional services. All liability is absolved.
+2. Data Protection Laws
+   1. GDPR (EU)
+   2. California Consumer Privacy Act (CCPA) (US)
+3. Cybersecurity Laws
+    1. NIS2 Directive (EU)
+    2. FISMA (US)
+4. E-Signature & E-Governance Laws
+5. Health data laws
+6. Freedom of information laws
+7. Accessibility laws
+    
