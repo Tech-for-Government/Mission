@@ -24,6 +24,10 @@ A group working on sample projects for governments.
     3. Cheques
 16. **Appointments**
 17. **Ministry Websites**
+18. **Legislation Viewer**
+    1. Past versions
+    2. Revisions
+    3. Proposals
 
 ## Project Values
 1. **Accessibility**
