@@ -75,6 +75,9 @@ A group working on sample projects for governments.
     1. Transparent government hiring through the portal with skill-based testing tools.
     2. Open contracting and grant-giving platforms with published evaluation criteria.
     3. AI screening of candidates for services must be bias-audited and appealable.
+10. **Interoperability**
+11. **Federation and Confederation**
+    1. Enables connections between political regimes to be formed dynamically.
 
 ## Legal
 1. This is not an offer or solicitation for financial, legal, or professional services. All liability is absolved.
