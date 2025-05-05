@@ -78,6 +78,11 @@ A group working on sample projects for governments.
 10. **Interoperability**
 11. **Federation and Confederation**
     1. Enables connections between political regimes to be formed dynamically.
+12. **Scientific Governance**
+    1. Use of Key Performance Indictators (KPIs) to measure the success of policy.
+    2. **Informed Governance**: Application of research on scientific governance strategies, preferring the latest research.
+13. **Responsivity**
+    1. Addressing the most important issues globally and locally.
 
 ## Legal
 1. This is not an offer or solicitation for financial, legal, or professional services. All liability is absolved.
